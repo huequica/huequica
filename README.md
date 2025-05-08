@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-25-green?style=for-the-badge" alt="Age: 24" />
+  <img src="https://img.shields.io/badge/Age-27-green?style=for-the-badge" alt="Age: 27" />
   <img src="https://img.shields.io/badge/LOVE-DDLC-7952B3?style=for-the-badge" alt="LOVE: DDLC" />
   <img src="https://img.shields.io/badge/awake-FAILED-critical?style=for-the-badge" alt="awake: FAILED" />
 </p>
